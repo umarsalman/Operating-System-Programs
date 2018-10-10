@@ -1,2 +1,3 @@
 # Operating-System-Programs
-C++ programs for operating system lab.
+Programs for operating system lab.
+You can contribute to this repo by adding various operating system based algorithms in any language of your choice.
