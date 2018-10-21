@@ -50,9 +50,7 @@ int main(){
 	}
 	printf("\n\n");
 
-
-
-	for(i=0;i<n;i++){
+       for(i=0;i<n;i++){
 		for(j=0;j<9;j++){
 			if(internal_frag[j]>size[i] && size[i]>0){
 				printf("External fragmentation for %d kb process is available at %dth patition\n",size[i],j);
