@@ -1,4 +1,4 @@
-# Operating-System-Scheduling-Programs in C++
+# Operating-System-Scheduling-Programs-in-C++
 Programs for operating system lab.
 You can contribute to this repo by adding various operating system based algorithms in any language of your choice.
 Make sure that your program contains required comments to make program more understandable for anyone using it.
